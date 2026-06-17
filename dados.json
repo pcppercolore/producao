@@ -1,0 +1,19 @@
+{
+  "maquinas": [
+    {
+      "id": 1781727397007,
+      "tipo": "Agitadores",
+      "modelo": "MX2C",
+      "condicao": "Nova",
+      "bandeira": "BRASILUX",
+      "serie": "23423423",
+      "cliente": "fasdfasfasd",
+      "cnpj": "42342342",
+      "transporte": "Transporte Próprio",
+      "cidade": "fasdfs",
+      "estado": "PI",
+      "status": "Adesivagem"
+    }
+  ],
+  "relatorio": []
+}
